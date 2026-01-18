@@ -10,3 +10,5 @@ console.log("hello of my duniyea")
 
 
 console.log("hello baby");
+console.log("hello baby");
+console.log("hello baby");
